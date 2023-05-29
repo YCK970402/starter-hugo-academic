@@ -1,6 +1,7 @@
 ---
 title: Yi-Chun Ko 柯逸均
 role: Research Assistant
+avatar_filename: s__16662541.jpg
 bio: ""
 interests:
   - Language and Memory
