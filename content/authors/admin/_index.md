@@ -5,7 +5,8 @@ bio: ""
 interests:
   - Language and Memory
   - Referential Processing
-  - Conversational Perspective Taking
+  - Perspective Taking
+  - Multimodal Communication
 social:
   - icon: envelope
     icon_pack: fas
@@ -18,7 +19,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_0529.pdf
 organizations:
   - name: Brain and Language Processing Laboratory
     url: https://blplab.linguistics.ntu.edu.tw/
