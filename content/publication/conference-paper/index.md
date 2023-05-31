@@ -1,87 +1,59 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: "Detecting statistical regularities is key to language acquisition.
+  Studies have shown that the capability of extracting statistical regularities
+  from continuous strings such as speech exists in infancy and persists into
+  adulthood. However, little is known about how this ability is affected by
+  aging. To gain a basic understanding of statistical learning ability of older
+  adults, the present study recorded event-related potentials (ERPs) of a group
+  of young adults (YA, N = 29; age range = 20-24 years) and a group of older
+  adults (OA, N = 24; age range = 61-83 yrs) who monaurally learned and judged
+  the grammaticality of 3-element pseudoword strings generated according to
+  predetermined artificial grammar rules. The experiment was conducted in four
+  training-test cycles. The results showed that older adults were significantly
+  less accurate in grammaticality judgment than were younger adults (averaged
+  accuracy from the last two cycles: OA = 56% and YA = 84%). Nevertheless, like
+  young adults, older adults showed a unilateral left-hemisphere P600
+  grammaticality effect. Relative to grammatical strings, ungrammatical strings
+  elicited a P600 response when perceived through the right ear, but elicited a
+  sustained negativity when perceived through the left ear. These data present
+  an interesting contrast to prior observations of bilateral syntactic
+  processing in older adults when processing native languages. Together, these
+  findings suggest that aging influences different aspects of statistical
+  learning. Older adults, while being able to implicitly distinguish strings
+  that adhere to or violate the exposed regularity, are less able to make
+  explicit grammatical judgments based on this knowledge."
+slides: ""
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+  - Yi-Chun Ko
+  - Chih Yeh
+  - Hsin-Jen Hsu
+  - Chia-Lin Lee
+author_notes: []
+publication: 29th Annual Meeting of the Cognitive Neuroscience Society. (April
+  23-26, San Francisco, CA, USA)
+summary: ""
+url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_project: ""
+publication_short: ""
+url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+url_video: https://youtube.com
+title: "Age-related differences in statistical learning of non-adjacent
+  dependencies: evidence from ERPs"
+doi: ""
+featured: false
 tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: featured.jpg
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
