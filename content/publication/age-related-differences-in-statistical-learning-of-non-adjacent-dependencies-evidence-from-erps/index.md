@@ -8,8 +8,8 @@ authors:
   - Chih Yeh
   - Hsin-Jen Hsu
   - Chia-Lin Lee
-publication: 29th Annual Meeting of the Cognitive Neuroscience Society. (April
-  23-26, San Francisco, CA, USA)
+publication: Poster presented at the 29th Annual Meeting of the Cognitive
+  Neuroscience Society. (April 23-26, San Francisco, CA, USA)
 abstract: "Detecting statistical regularities is key to language acquisition.
   Studies have shown that the capability of extracting statistical regularities
   from continuous strings such as speech exists in infancy and persists into
