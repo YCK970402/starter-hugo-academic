@@ -13,8 +13,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Invited Presentations
+    url: '#Invited Presentations'
     weight: 40
   - name: Publications
     url: '#publication'
