@@ -6,8 +6,8 @@ publication_types:
 authors:
   - Yi-Chun Ko
   - Chia-Lin Lee
-publication: NTU-UT Linguistics Festa 2022, National Taiwan University. (March
-  12, Taipei, Taiwan)
+publication: Poster presented at NTU-UT Linguistics Festa 2022, National Taiwan
+  University. (March 12, Taipei, Taiwan)
 abstract: >-
   Establishing reference is essential to successful discourse comprehension.
   Specifically, pronoun
