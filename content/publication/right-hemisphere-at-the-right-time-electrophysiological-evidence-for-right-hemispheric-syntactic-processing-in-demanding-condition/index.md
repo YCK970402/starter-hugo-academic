@@ -10,8 +10,8 @@ authors:
   - Ling Tang
   - Hsin-Jen Hsu
   - Chia-Lin Lee
-publication: NTU-UT Linguistics Festa 2020, National Taiwan University.
-  (February 7, Taipei, Taiwan)
+publication: Poster presented at NTU-UT Linguistics Festa 2020, National Taiwan
+  University. (February 7, Taipei, Taiwan)
 abstract: >-
   Although syntactic processing is lateralized to the left hemisphere (LH),
   previous studies have revealed that the right hemisphere (RH) is also capable
