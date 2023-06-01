@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Yi-Chun Ko
   - Chih Yeh
-  - Shiuan-Huey Yen
+  - Hsiuan-Huey Yen
   - Ling Tang
   - Hsin-Jen Hsu
   - Chia-Lin Lee
