@@ -1,6 +1,6 @@
 ---
 title: "Referential ambiguity resolution for multiple referents: Evidence from
-  eventrelated potentials."
+  event-related potentials"
 publication_types:
   - "1"
 authors:
