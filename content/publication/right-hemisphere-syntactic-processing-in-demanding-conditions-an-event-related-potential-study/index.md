@@ -10,8 +10,8 @@ authors:
   - Ling Tang
   - Hsin-Jen Hsu
   - Chia-Lin Lee
-publication: 28th Annual Meeting of the Cognitive Neuroscience Society. (March
-  13-16, Virtual conference)
+publication: Poster presented at the 28th Annual Meeting of the Cognitive
+  Neuroscience Society. (March 13-16, Virtual conference)
 abstract: The right hemisphere (RH) has been found to possess left hemisphere
   (LH) equivalent syntactic processing ability as indexed by the P600s to some
   grammatical errors. RH P600s, however, are sometimes associated with lower
