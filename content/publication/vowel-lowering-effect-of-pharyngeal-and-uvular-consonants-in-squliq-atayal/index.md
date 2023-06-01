@@ -1,5 +1,5 @@
 ---
-title: Vowel Lowering effect of pharyngeal and uvular consonants in Squliq Atayal
+title: Vowel lowering effect of pharyngeal and uvular consonants in Squliq Atayal
 publication_types:
   - "1"
 authors:
