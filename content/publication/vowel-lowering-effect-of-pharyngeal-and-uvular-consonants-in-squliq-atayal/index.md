@@ -4,7 +4,8 @@ publication_types:
   - "1"
 authors:
   - Yi-Chun Ko
-publication: 22nd National Conference on Linguistics. (October 23, Taipei, Taiwan)
+publication: Poster presented at the 22nd National Conference on Linguistics.
+  (October 23, Taipei, Taiwan)
 abstract: High vowel in Squliq Atayal has been alleged to be lowered when
   occurring adjacent to pharyngeal and uvular consonants /h/ and /q/ (Egerod,
   1966; Li, 1980; Rau, 1992). However, the observed lowering of the high vowels
