@@ -1,6 +1,6 @@
 ---
 title: "Age-related differences in statistical learning of non-adjacent
-  dependencies: evidence from ERPs"
+  dependencies: Evidence from ERPs"
 publication_types:
   - "1"
 authors:
