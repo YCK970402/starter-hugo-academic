@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: USA
 
-summary: 
+summary: Presented at Language Seminar of Psychology department at UIUC
 abstract: ''
 
 # Talk start and end times.
