@@ -12,7 +12,7 @@ address:
   postcode: ''
   country:
 
-summary: Invited lecture at LING5705 "Uncovering Languages"
+summary: Invited lecture for LING5705 "Uncovering Languages"
 abstract: ''
 
 # Talk start and end times.
