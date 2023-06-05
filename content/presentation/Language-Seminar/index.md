@@ -6,14 +6,14 @@ event_url:
 
 location: University of Illinois Urbana-Champaign
 address:
-  street: 
+  street: testing
   city: Champaign
   region: IL
-  postcode: ''
+  postcode: '999'
   country: USA
 
-summary: 
-abstract: ''
+summary: testing
+abstract: 'testing'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

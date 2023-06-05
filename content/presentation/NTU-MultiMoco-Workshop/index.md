@@ -6,14 +6,14 @@ event_url: https://multimoco.linguistics.ntu.edu.tw/index.html
 
 location: National Taiwan University
 address:
-  street: ''
+  street: testing
   city: Taipei
-  region: ''
+  region: testing
   postcode: ''
   country: Taiwan
 
-summary: 
-abstract: ''
+summary: testing
+abstract: 'testing'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
