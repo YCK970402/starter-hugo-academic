@@ -6,10 +6,10 @@ event_url:
 
 location: University of Illinois Urbana-Champaign
 address:
-  street: ''
+  street: 
   city: Champaign
   region: IL
-  postcode: ''
+  postcode: 
   country: USA
 
 summary: 
@@ -17,8 +17,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-09-21T13:00:00Z'
-#date_end: '2030-06-01T15:00:00Z'
+date: '2022-09-21T12:00:00Z'
+date_end: '2030-06-01T13:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
