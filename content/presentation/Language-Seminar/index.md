@@ -9,7 +9,7 @@ address:
   street: 
   city: Champaign
   region: IL
-  postcode: 
+  postcode: ''
   country: USA
 
 summary: 
