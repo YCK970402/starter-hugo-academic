@@ -30,9 +30,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-# image:
-#   caption: 
-#   focal_point: Right
+image:
+  caption: 
+  focal_point: Right
 
 links:
 #   - icon: twitter
