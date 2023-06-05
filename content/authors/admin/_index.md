@@ -20,7 +20,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_0529.pdf
+    link: uploads/resume.pdf
 organizations:
   - name: Brain and Language Processing Laboratory
     url: https://blplab.linguistics.ntu.edu.tw/
