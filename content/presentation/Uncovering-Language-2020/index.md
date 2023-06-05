@@ -35,10 +35,10 @@ image:
   focal_point: Right
 
 links:
-   - icon: 
-     icon_pack: 
-     name: 
-     url: 
+  #  - icon: 
+  #    icon_pack: 
+  #    name: 
+  #    url: 
 url_code: ''
 url_pdf: ''
 url_slides: uploads/Uncovering Languages_2022.pdf
