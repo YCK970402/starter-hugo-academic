@@ -7,10 +7,10 @@ event_url: https://multimoco.linguistics.ntu.edu.tw/index.html
 location: National Taiwan University
 address:
   street: 
-  city: Taipei
+  city: Taipei, Taiwan
   region: 
   postcode: ''
-  country: Taiwan
+  country:
 
 summary: 
 abstract: ''

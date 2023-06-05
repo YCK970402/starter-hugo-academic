@@ -7,10 +7,10 @@ event_url: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=142
 location: National Taiwan University
 address:
   street: 
-  city: Taipei
+  city: Taipei, Taiwan
   region: 
   postcode: ''
-  country: Taiwan
+  country:
 
 summary: 
 abstract: ''
