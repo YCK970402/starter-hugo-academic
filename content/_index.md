@@ -190,12 +190,12 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: presentations
+    id: talks
     content:
       title: Invited Presentations
       filters:
         folders:
-          - presentation
+          - event
     design:
       columns: '2'
       view: compact
