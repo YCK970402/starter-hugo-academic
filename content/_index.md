@@ -190,7 +190,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: Invited Presentations
+    id: presentations
     content:
       title: Invited Presentations
       filters:
