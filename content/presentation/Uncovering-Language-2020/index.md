@@ -1,24 +1,24 @@
 ---
-title: Introduction to EEG data collection and analysis
+title: Introduction to ERP and Referential Ambiguity
 
-event: NTU MultiMoco Workshop
-event_url: https://multimoco.linguistics.ntu.edu.tw/index.html
+event: LING5705 "Uncovering Languages"
+event_url: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=142%20U0850&class=&dpt_code=P310&ser_no=50653&semester=110-2&lang=CH
 
 location: National Taiwan University
 address:
-  street: ''
+  street: 
   city: Taipei
-  region: ''
+  region: 
   postcode: ''
   country: Taiwan
 
 summary: 
-abstract: 
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-11-14T13:00:00Z'
-#date_end: '2030-06-01T15:00:00Z'
+date: '2022-05-17T10:20:00Z'
+date_end: '2022-05-17T13:10:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -31,17 +31,17 @@ tags: []
 featured: false
 
 image:
-  caption: 
+  caption: ''
   focal_point: Right
 
 links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: Follow
-#     url: https://twitter.com/georgecushen
+   - icon: 
+     icon_pack: 
+     name: 
+     url: 
 url_code: ''
 url_pdf: ''
-url_slides: uploads/Introduction to EEG data collection and analysis.pdf
+url_slides: uploads/Uncovering Languages_2022.pdf
 url_video: ''
 
 # Markdown Slides (optional).
@@ -57,7 +57,7 @@ slides: ''
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - ''
+  - []
 ---
 
 <!-- {{% callout note %}}
