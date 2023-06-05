@@ -9,7 +9,7 @@ address:
   street: testing
   city: Champaign
   region: IL
-  postcode: '999'
+  postcode: '99999'
   country: USA
 
 summary: testing
@@ -18,7 +18,7 @@ abstract: 'testing'
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-09-21T12:00:00Z'
-date_end: '2030-06-01T13:30:00Z'
+date_end: '2022-09-21T13:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 
+  caption: ''
   focal_point: Right
 
 links:
@@ -41,7 +41,7 @@ links:
 #     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: uploads/Language Seminar_UIUC.pdf
+url_slides: 'uploads/Language Seminar_UIUC.pdf'
 url_video: ''
 
 # Markdown Slides (optional).

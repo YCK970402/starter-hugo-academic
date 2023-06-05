@@ -9,7 +9,7 @@ address:
   street: testing
   city: Taipei
   region: testing
-  postcode: ''
+  postcode: '999'
   country: Taiwan
 
 summary: testing
