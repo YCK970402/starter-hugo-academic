@@ -5,7 +5,7 @@ event: NTU MultiMoco Workshop
 event_url: https://multimoco.linguistics.ntu.edu.tw/index.html
 
 location: National Taiwan University
-address: ''
+address:
   street: ''
   city: Taipei
   region: ''
@@ -30,9 +30,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 
-  focal_point: Right
+# image:
+#   caption: 
+#   focal_point: Right
 
 links:
 #   - icon: twitter
