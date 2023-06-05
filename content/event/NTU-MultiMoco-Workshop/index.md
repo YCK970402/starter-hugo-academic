@@ -12,7 +12,7 @@ address:
   postcode: ''
   country:
 
-summary: 
+summary: Presented at NTU MultiMoco Workshop
 abstract: ''
 
 # Talk start and end times.
