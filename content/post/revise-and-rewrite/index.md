@@ -22,6 +22,8 @@ That's when I came across an article by Prof. Tsong-Min Wu, who taught me princi
 
 "Revise and rewrite."
 
-I was captivated by this quote because it doesn't assume that people should write perfectly, nor does it direct people to some “ten rules that must be obeyed to write the best essay”. The underlying implication is that, yes, you will make mistake during the writing process, but through dedication, practice, and gaining more experience, you will improve gradually. This subtle difference makes me feel much more comfortable about writing. It reminds me of one of my favorite, if not the most favorite, quotes by Irish writer Samuel Beckett: "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."
+I was captivated by this quote because it doesn't assume that people should write perfectly, nor does it direct people to some “ten rules that must be obeyed to write the best essay”. The underlying implication is that, yes, you will make mistakes during the writing process, but through dedication, practice, and gaining more experience, you will improve gradually. This subtle difference makes me feel much more comfortable about writing. It reminds me of one of my favorite, if not the most favorite, quotes by Irish writer Samuel Beckett: 
 
-That's it. I suppose that's what I will continue doing from now on—revise and rewrite. And that's why I am here, writing posts.
+"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."
+
+That's it. I suppose that's what I will continue doing from now on—write, failed, write again, write better. To write better, first I have to write something. And that's why I am here, writing the first post.
