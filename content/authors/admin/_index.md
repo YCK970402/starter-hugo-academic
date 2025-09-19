@@ -6,8 +6,6 @@ bio: ""
 interests:
   - Language and Memory
   - Referential Processing
-  - Perspective Taking
-  - Multimodal Communication
 social:
   - icon: envelope
     icon_pack: fas
@@ -45,13 +43,14 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+
 I am a research assistant at the [National Taiwan University](https://www.ntu.edu.tw/english/), working under the mentorship of[ Prof. Chia-Lin Charlene Lee](https://scholar.google.com.tw/citations?user=58CFn84AAAAJ&hl=zh-TW&oi=ao) in the [Brain and Language Processing Lab](https://blplab.linguistics.ntu.edu.tw/). My current projects include: 
 
-1. Using statistical learning paradigm to investigate the role of right hemispheric responses in syntactic processing of both younger and older adults 
-2. Increasing the difficulty in referential resolution to investigate the underlying mechanism of Nref effect (an ERP component elicited by referentially ambiguous expressions) 
+1. Employing a statistical learning paradigm to examine the role of right-hemispheric responses in syntactic processing among younger and older adults.
+2. Manipulating referential load  to investigate the mechanisms underlying the Nref effect, an ERP component elicited by referentially ambiguous expressions.
 
-I'm broadly interested in psycholinguistics and neurolinguistics, specifically in referential resolution, lexical/referential ambiguity and the role of working memory in language processing. During my training in Master's program, I learn how to conduct EEG/ERP experiments and assist in neurolinguistics research. In addition, I gained substantial teaching experience from being teaching assistant for four semesters and mentoring 14 students on conducting experiments and data analysis. 
+I am broadly interested in psycholinguistics and neuroscience, with a focus on referential processing, ambiguity, and the role of working memory in language processing. During my master’s training, I gained extensive experience conducting EEG/ERP experiments and assisting in neurolinguistics research. Furthermore, I served as a teaching assistant for four semesters, mentoring more than 20 students in experimental design and data analysis.
 
-I received a M.A. in [Linguistics](https://linguistics.ntu.edu.tw/) and a B.A. in [Economics](https://econ.ntu.edu.tw/?locale=en) from [National Taiwan University](https://www.ntu.edu.tw/english/), with [Neurobiology and Cognitive Science Program ](http://140.112.62.130/home)completed. My Master's thesis, “Processing of Ambiguity with Multiple Referents”, supervised by [Prof. Chia-Lin Charlene Lee](https://scholar.google.com.tw/citations?user=58CFn84AAAAJ&hl=zh-TW&oi=ao), investigates the Nref effect's sensitivity to increasing referential load and explores the possibility of general resources subserving the working memory operations across modalities.
+I received an M.A. in [Linguistics](https://linguistics.ntu.edu.tw/) and a B.A. in [Economics](https://econ.ntu.edu.tw/?locale=en) from [National Taiwan University](https://www.ntu.edu.tw/english/), with additional training in the [Neurobiology and Cognitive Science Program ](http://140.112.62.130/home). My master’s thesis, Processing of Ambiguity with Multiple Referents, supervised by  [Professor Chia-Lin Charlene Lee](https://scholar.google.com.tw/citations?user=58CFn84AAAAJ&hl=zh-TW&oi=ao), investigated the Nref effect’s sensitivity to increasing referential load and explored the possibility that domain-general resources support working memory operations across modalities.
 
 {style="text-align: justify;"}
