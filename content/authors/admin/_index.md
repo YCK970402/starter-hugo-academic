@@ -21,7 +21,7 @@ social:
     link: uploads/resume.pdf
 organizations:
   - name: Brain and Language Processing Laboratory
-    url: https://blplab.linguistics.ntu.edu.tw/
+    url: https://sites.google.com/view/ntublplab
   - name: National Taiwan University
     url: https://www.ntu.edu.tw/english/
 education:
@@ -44,7 +44,7 @@ first_name: Alice
 email: ""
 ---
 
-I am a research assistant at the [National Taiwan University](https://www.ntu.edu.tw/english/), working under the mentorship of[ Prof. Chia-Lin Charlene Lee](https://scholar.google.com.tw/citations?user=58CFn84AAAAJ&hl=zh-TW&oi=ao) in the [Brain and Language Processing Lab](https://blplab.linguistics.ntu.edu.tw/). My current projects include: 
+I am a research assistant at the [National Taiwan University](https://www.ntu.edu.tw/english/), working under the mentorship of[ Prof. Chia-Lin Charlene Lee](https://scholar.google.com.tw/citations?user=58CFn84AAAAJ&hl=zh-TW&oi=ao) in the [Brain and Language Processing Lab](https://sites.google.com/view/ntublplab). My current projects include: 
 
 1. Employing a statistical learning paradigm to examine the role of right-hemispheric responses in syntactic processing among younger and older adults.
 2. Manipulating referential load  to investigate the mechanisms underlying the Nref effect, an ERP component elicited by referentially ambiguous expressions.
