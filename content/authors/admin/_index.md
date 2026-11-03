@@ -29,16 +29,16 @@ education:
   courses:
     - course: Ph.D. in Communicative Sciences and Disorders
       institution: New York University
-      year: 2026-present
- - course: M.A. in Linguistics
+      year: "2026-present"
+    - course: M.A. in Linguistics
       institution: National Taiwan University
-      year: 2020-2023
+      year: "2020-2023"
     - course: B.A. in Economics
       institution: National Taiwan University
-      year: 2015-2020
+      year: "2015-2020"
     - course: Exchange Student
       institution: Tokyo University of Foreign Studies
-      year: 2017–2018
+      year: "2017–2018"
 superuser: true
 status:
   icon: ☕️
