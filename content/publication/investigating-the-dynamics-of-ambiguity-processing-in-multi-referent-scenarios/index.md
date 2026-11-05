@@ -1,19 +1,12 @@
 ### need update here after publication
 ---
 title: "Investigating the dynamics of ambiguity processing in multi-referent scenarios"
-publication_types:
-  - "3"
 authors:
   - Yi-Chun Ko
   - Kara D. Federmeier
-  - Chia-Lin Lee
-publication: 
-abstract: >-
-draft: true
-featured: false
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
-date: 2023-07-30T08:01:24.198Z
+  - Chia-Lin Charlene Lee
+date: 2026-11-05
+publication_types: ["0"]
+publication: "Manuscript under review"
+draft: false
 ---
