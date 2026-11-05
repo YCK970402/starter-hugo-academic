@@ -174,21 +174,40 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection
+#  - block: collection
+#    id: publication
+#    content:
+#      title: Publications
+#      # text: |-
+#      #   {{% callout note %}}
+#      #   Quickly discover relevant content by [filtering publications](./publication/).
+#      #   {{% /callout %}}
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: true
+#    design:
+#      columns: '2'
+#      view: citation
+  # - block: collection
+  #   id: publication
+  #   content:
+  #     title: Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
+  - block: markdown
     id: publication
     content:
       title: Publications
-      # text: |-
-      #   {{% callout note %}}
-      #   Quickly discover relevant content by [filtering publications](./publication/).
-      #   {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
+      text: |-
+        Ko, Y. C., Federmeier, K. D., & Lee, C. L. (under review). *Investigating the dynamics of ambiguity processing in multi-referent scenarios* . Preregistration.
     design:
       columns: '2'
-      view: citation
   - block: collection
     id: talks
     content:

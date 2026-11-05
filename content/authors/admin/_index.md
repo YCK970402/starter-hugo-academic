@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Neuro/Psycholinguistics
-  - Social-Pragmatic Communication
+  - Social Pragmatics
   - Language and Memory
 social:
   - icon: envelope
