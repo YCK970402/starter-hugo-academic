@@ -1,0 +1,8 @@
+name = "Noto"
+
+google_fonts = "family=Noto+Sans:wght@400;700&family=Noto+Sans+TC:wght@400;700&family=Roboto+Mono"
+
+heading_font = "Noto Sans"
+body_font = "Noto Sans"
+nav_font = "Noto Sans"
+mono_font = "Roboto Mono"
