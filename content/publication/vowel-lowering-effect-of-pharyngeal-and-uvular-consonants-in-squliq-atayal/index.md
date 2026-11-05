@@ -30,7 +30,7 @@ abstract: High vowel in Squliq Atayal has been alleged to be lowered when
   anticipatory coarticulation. The fact that the retracted /i/ is not identical
   with /e/ acoustically and articulatory may provide important insight into the
   decision of writing system.
-draft: false
+draft: true
 featured: false
 image:
   filename: featured.jpg

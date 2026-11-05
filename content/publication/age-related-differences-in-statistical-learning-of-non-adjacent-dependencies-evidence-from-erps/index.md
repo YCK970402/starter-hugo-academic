@@ -33,7 +33,7 @@ abstract: "Detecting statistical regularities is key to language acquisition.
   learning. Older adults, while being able to implicitly distinguish strings
   that adhere to or violate the exposed regularity, are less able to make
   explicit grammatical judgments based on this knowledge."
-draft: false
+draft: true
 featured: false
 image:
   filename: featured.jpg

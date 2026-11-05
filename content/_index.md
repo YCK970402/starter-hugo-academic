@@ -206,9 +206,10 @@ sections:
       title: Publications
       text: |-
         Ko, Y. C., Federmeier, K. D., & Lee, C. L. (under review). *Investigating the dynamics of ambiguity processing in multi-referent scenarios* . Preregistration.
+
+        [See all publications](/publication/)
     design:
-      columns: '2'
-  - block: collection
+      columns: '2'  - block: collection
     id: talks
     content:
       title: Invited Presentations

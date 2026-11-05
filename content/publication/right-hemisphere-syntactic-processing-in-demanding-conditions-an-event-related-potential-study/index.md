@@ -35,7 +35,7 @@ abstract: The right hemisphere (RH) has been found to possess left hemisphere
   N=20). These results thus disfavor the hindrance account of the RH P600
   responses, and instead support the compensatory role of the RH P600 in
   challenging syntactic processing/learning tasks.
-draft: false
+draft: true
 featured: false
 image:
   filename: featured.jpg
