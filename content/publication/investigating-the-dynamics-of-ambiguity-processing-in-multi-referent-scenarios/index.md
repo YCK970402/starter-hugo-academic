@@ -1,5 +1,5 @@
-### need update here after publication
 ---
+# Update this entry after publication.
 title: "Investigating the dynamics of ambiguity processing in multi-referent scenarios"
 authors:
   - Yi-Chun Ko
